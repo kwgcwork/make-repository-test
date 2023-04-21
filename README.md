@@ -1,2 +1,2 @@
 # make-repository-test
-first repository test
+It's my first repository. 
